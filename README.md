@@ -1,7 +1,6 @@
 # CodeAlpha_Tasks
 
 **Task1(Student Grade Tracker)**
-🚀 Task 1 Completed during my Internship at CodeAlpha 🚀
 
 I developed a Student Grade Tracker program that allows teachers to easily input student grades and compute important statistics like the average, highest, and lowest scores. This project helped me hone my skills in Java programming and problem-solving while gaining hands-on experience at CodeAlpha.
 
