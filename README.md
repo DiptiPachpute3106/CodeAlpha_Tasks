@@ -17,3 +17,15 @@ The app implements basic banking operations, including:
 2.Withdrawals 💸
 3.Balance checking 💰
 4.Exiting the system 🚪
+
+**Task3(Travel Itinerary Planner)**
+
+The Travel Itinerary Planner is a dynamic tool designed to help users create detailed travel plans with ease. It allows users to input destinations, dates, and preferences to generate a customized itinerary, making trip planning simple and efficient.
+
+Features:
+
+🌐 Destination Input: Add multiple destinations to your travel plan.
+📅 Date and Preference Settings: Customize your itinerary based on your schedule and preferences.
+🗺️ Integrated Maps: Visualize your travel route effortlessly.
+🌦️ Real-Time Weather Information: Stay updated with the latest weather forecasts for your destinations.
+💰 Budget Calculator: Plan your trip within your budget by estimating travel expenses.
