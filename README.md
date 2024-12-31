@@ -25,7 +25,11 @@ The Travel Itinerary Planner is a dynamic tool designed to help users create det
 Features:
 
 🌐 Destination Input: Add multiple destinations to your travel plan.
+
 📅 Date and Preference Settings: Customize your itinerary based on your schedule and preferences.
+
 🗺️ Integrated Maps: Visualize your travel route effortlessly.
+
 🌦️ Real-Time Weather Information: Stay updated with the latest weather forecasts for your destinations.
+
 💰 Budget Calculator: Plan your trip within your budget by estimating travel expenses.
