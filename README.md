@@ -33,3 +33,25 @@ Features:
 🌦️ Real-Time Weather Information: Stay updated with the latest weather forecasts for your destinations.
 
 💰 Budget Calculator: Plan your trip within your budget by estimating travel expenses.
+
+
+**Task4(Hotel Reservation System)**
+
+This is a simple Hotel Reservation System developed in Java as part of my internship at CodeAlpha. The system allows users to:
+
+•	Search for available rooms.
+
+•	Make room reservations.
+
+•	View booking details.
+
+•	Handle basic payment processing.
+
+**Features:**
+
+•	Room Categorization: Single, Double, Suite.
+
+•	Console-Based Interface: User-friendly and intuitive.
+
+•	Efficient Room Management: Tracks availability and booking seamlessly.
+
